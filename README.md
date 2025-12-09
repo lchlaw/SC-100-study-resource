@@ -1,4 +1,9 @@
 # SC-100-study-resource
+
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-100
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/
+
 ## Design solutions that align with security best practices and priorities (20–25%)
 ### Design a resiliency strategy for ransomware and other attacks based on Microsoft Security Best Practices
 - Design a security strategy to support business resiliency goals, including identifying and prioritizing threats to business-critical assets
